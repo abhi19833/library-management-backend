@@ -1,8 +1,11 @@
 # Library Management Backend
 
-Backend service for a Library Management System built using FastAPI.
-The project focuses on clean backend architecture, JWT-based authentication,
-role management, and database schema versioning.
+Backend Requirements Document for a Library Management Tool built using FastAPI and PostgreSQL.
+This backend defines the core architecture, modules, APIs, and security requirements for managing
+library operations.It focuses on modular backend design, JWT-based authentication, role-based access
+control, standardized REST APIs, and database schema versioning using Alembic. The application is
+containerized using Docker and designed to run via Docker Compose.
+
 
 ---
 
